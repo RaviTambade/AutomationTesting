@@ -1,0 +1,15 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.exe
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.runtimeconfig.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\bin\Debug\net9.0\BasicSyntaxApp.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\refint\BasicSyntaxApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\BasicSyntaxApp.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week3\BasicSolution\BasicSyntaxApp\obj\Debug\net9.0\ref\BasicSyntaxApp.dll
