@@ -1,6 +1,6 @@
 namespace Drawing;
 
-public class Circle
+public class Circle:Shape
 {
     public int Radius { get; set; }
     public Point Center { get; set; }  //has a relation
@@ -20,6 +20,7 @@ public class Circle
     public void Display()
     {
         Console.WriteLine("\n Circle details:");
+        base.Display();
         Console.WriteLine("Radius=" + this.Radius);
         Console.WriteLine("Center= ");
         this.Center.Display();
