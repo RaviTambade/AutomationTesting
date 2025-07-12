@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week3\\GraphicsSolution\\GraphicsTest\\GraphicsTest.csproj",
+      "projectUniqueName": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week4\\GraphicsSolution\\GraphicsTest\\GraphicsTest.csproj",
       "projectName": "GraphicsTest",
-      "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week3\\GraphicsSolution\\GraphicsTest\\GraphicsTest.csproj",
+      "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week4\\GraphicsSolution\\GraphicsTest\\GraphicsTest.csproj",
       "packagesPath": "C:\\Users\\tfladmin\\.nuget\\packages\\",
-      "outputPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week3\\GraphicsSolution\\GraphicsTest\\obj\\",
+      "outputPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week4\\GraphicsSolution\\GraphicsTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

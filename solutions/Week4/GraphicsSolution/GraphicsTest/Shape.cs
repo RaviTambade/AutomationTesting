@@ -10,10 +10,8 @@ public class Shape
     public Shape()
     {
         Thickness = 0;
-        ShapeColor = new Color();
-        ShapeColor.Red = 0;
-        ShapeColor.Blue = 0;
-        ShapeColor.Green = 0;
+        ShapeColor = new Color(0,0,0);
+      
     }
     public Shape(int thickness, Color shapeColor)
     {

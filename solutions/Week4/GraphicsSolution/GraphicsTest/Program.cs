@@ -1,38 +1,44 @@
 ﻿
 using Drawing;
 using HR;
+
+using UI;
 public class Program
 {
     public static void Main(string[] args)
     {
-        Point startPoint = new Point(23, 56);
-        Point endPoint = new Point(78, 12);
-        Point center = new Point(12, 12);
 
 
-        Circle crl1 = new Circle(25, center);
-        crl1.Display();
-        Circle crl2 = new Circle(19, new Point(67, 67));
-        crl2.Display();
+        /*Color myColor = new Color(255, 0, 0);
+        Shape theShape = new Line(startPoint, endPoint, 12, myColor);
 
-        Circle crl3 = new Circle(13, new Point(6, 56));
-        crl3.Display();
+        theShape.Draw();*/
 
-        Circle crl4 = new Circle(5, new Point(98, 7));
-        crl4.Display();
+        //Menu Driven Program to create Line or Circle
 
-        Line l1 = new Line(startPoint, endPoint);
-        l1.Display();
+        UIManager mgr = new UIManager();
+        mgr.ShowMenu();
+        int choice = mgr.GetChoice();
+
+        switch (choice)
+        {
+            case 1:
+              
+                break;
+            case 2:
+            
+                break;
+            case 3:
+                return 0;
+                break;
+        }
 
 
-        Date joinDate1 = new Date(12, 3, 2024);
-        Employee employee1 = new Employee("Bhupendra", "Walhekar", joinDate1);
-        employee1.Display();
 
-        Date joinDate2 = new Date(21, 12, 1997);
-        Employee employee2 = new Employee("Ravi", "Tambade", joinDate2);
-        employee2.Display();
-        
+
+
+
+
 
     }
 }
