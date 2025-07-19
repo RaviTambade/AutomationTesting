@@ -28,7 +28,7 @@ public class UIManager
         theColor.Green = int.Parse(Console.ReadLine());
         Console.WriteLine("Enter Blue Value (0, 255)");
         theColor.Blue = int.Parse(Console.ReadLine());
-        return theColor;   
+        return theColor;
     }
 
     public int AcceptThickness()
@@ -36,6 +36,13 @@ public class UIManager
         Console.WriteLine("Enter Thinkness");
         int thickness = int.Parse(Console.ReadLine());
         return thickness;
+    }
+
+      public int AcceptRadius()
+    {
+        Console.WriteLine("Enter Radius");
+        int radius = int.Parse(Console.ReadLine());
+        return radius;
     }
 
     //DRY
@@ -54,10 +61,25 @@ public class UIManager
         Line theLine = new Line();
         theLine.StartPoint = AcceptPoint();
         theLine.EndPoint = AcceptPoint();
-       int thickness = AcceptThickness();
-        theLine.SetThickness(thickness); 
-        Color theColor=AcceptColor();   
+        int thickness = AcceptThickness();
+        theLine.SetThickness(thickness);
+        Color theColor = AcceptColor();
         theLine.SetColor(theColor);
         return theLine;
+    }
+    
+      public Circle GetCircle()
+    {
+        Circle circle= new Circle();
+        circle.Center = AcceptPoint();
+
+        int radius = AcceptRadius();
+        circle.Radius=radius;
+
+        int thickness = AcceptThickness();
+        circle.SetThickness(thickness);
+        Color theColor=AcceptColor();   
+        circle.SetColor(theColor);
+        return circle;
     }
 }

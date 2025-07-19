@@ -26,9 +26,8 @@ public class Shape
 
     public virtual void Draw()
     {
-        Console.WriteLine("ShapeDrawFunction");
-        Console.WriteLine(ShapeColor.Red + " " + ShapeColor.Green + " " + ShapeColor.Blue);
         Console.WriteLine("Thickness" + Thickness);
+        Console.WriteLine("(" +ShapeColor.Red + " ," + ShapeColor.Green + ", " + ShapeColor.Blue+ ")");   
     }
 
     

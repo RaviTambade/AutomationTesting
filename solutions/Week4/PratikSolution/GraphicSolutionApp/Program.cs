@@ -19,7 +19,8 @@ public class Program
                     break;
                 case 2:
                     {
-                        //Cirlcle c1 = mgr.GetCircle();
+                        Circle c1 = mgr.GetCircle();
+                        c1.Draw();
                     }
                     break;
 
@@ -28,7 +29,6 @@ public class Program
                     break;
             }
         }
-
- 
     }
 }
+

@@ -26,3 +26,4 @@ D:\Ravi\TAP\TAP\weekendjune25\solutions\Week4\PratikSolution\GraphicSolutionApp\
 D:\Ravi\TAP\TAP\weekendjune25\solutions\Week4\PratikSolution\GraphicSolutionApp\bin\Debug\net9.0\GraphicSolutionApp.pdb
 D:\Ravi\TAP\TAP\weekendjune25\solutions\Week4\PratikSolution\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.genruntimeconfig.cache
 D:\Ravi\TAP\TAP\weekendjune25\solutions\Week4\PratikSolution\GraphicSolutionApp\obj\Debug\net9.0\ref\GraphicSolutionApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week4\PratikSolution\GraphicSolutionApp\obj\Debug\net9.0\GraphicSolutionApp.sourcelink.json

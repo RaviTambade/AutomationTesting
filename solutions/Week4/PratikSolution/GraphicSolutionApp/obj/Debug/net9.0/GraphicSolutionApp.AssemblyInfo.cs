@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GraphicSolutionApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa0da28222d533c32aae66eb653b4ec748dfa7a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("GraphicSolutionApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GraphicSolutionApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
