@@ -34,3 +34,7 @@ D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\ob
 D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\obj\Debug\net9.0\RepoTest.pdb
 D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\obj\Debug\net9.0\RepoTest.genruntimeconfig.cache
 D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\obj\Debug\net9.0\ref\RepoTest.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\bin\Debug\net9.0\API.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\bin\Debug\net9.0\SAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\bin\Debug\net9.0\SAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\RepoTest\bin\Debug\net9.0\API.pdb

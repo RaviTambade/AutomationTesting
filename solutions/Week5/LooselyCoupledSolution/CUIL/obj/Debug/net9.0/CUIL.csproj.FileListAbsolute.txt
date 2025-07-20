@@ -1,0 +1,12 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\bin\Debug\net9.0\CUIL.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\bin\Debug\net9.0\CUIL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\bin\Debug\net9.0\CUIL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\refint\CUIL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\CUIL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\CUIL\obj\Debug\net9.0\ref\CUIL.dll

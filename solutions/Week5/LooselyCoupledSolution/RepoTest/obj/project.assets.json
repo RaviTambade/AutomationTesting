@@ -2,6 +2,20 @@
   "version": 3,
   "targets": {
     "net9.0": {
+      "API/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BOL": "1.0.0",
+          "SAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/API.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/API.dll": {}
+        }
+      },
       "BOL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v9.0",
@@ -24,10 +38,29 @@
         "runtime": {
           "bin/placeholder/DAL.dll": {}
         }
+      },
+      "SAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BOL": "1.0.0",
+          "DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SAL.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "API/1.0.0": {
+      "type": "project",
+      "path": "../API/API.csproj",
+      "msbuildProject": "../API/API.csproj"
+    },
     "BOL/1.0.0": {
       "type": "project",
       "path": "../BOL/BOL.csproj",
@@ -37,11 +70,18 @@
       "type": "project",
       "path": "../DAL/DAL.csproj",
       "msbuildProject": "../DAL/DAL.csproj"
+    },
+    "SAL/1.0.0": {
+      "type": "project",
+      "path": "../SAL/SAL.csproj",
+      "msbuildProject": "../SAL/SAL.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "DAL >= 1.0.0"
+      "API >= 1.0.0",
+      "DAL >= 1.0.0",
+      "SAL >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -76,8 +116,14 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
+            "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\API\\API.csproj": {
+              "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\API\\API.csproj"
+            },
             "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\DAL\\DAL.csproj": {
               "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\DAL\\DAL.csproj"
+            },
+            "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\SAL\\SAL.csproj": {
+              "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\SAL\\SAL.csproj"
             }
           }
         }

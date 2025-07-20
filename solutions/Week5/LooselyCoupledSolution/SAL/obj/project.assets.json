@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "BOL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/BOL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BOL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "BOL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BOL/1.0.0": {
+      "type": "project",
+      "path": "../BOL/BOL.csproj",
+      "msbuildProject": "../BOL/BOL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "BOL >= 1.0.0",
+      "DAL >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\tfladmin\\.nuget\\packages\\": {},
@@ -38,7 +76,14 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\BOL\\BOL.csproj": {
+              "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\BOL\\BOL.csproj"
+            },
+            "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\DAL\\DAL.csproj": {
+              "projectPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week5\\LooselyCoupledSolution\\DAL\\DAL.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

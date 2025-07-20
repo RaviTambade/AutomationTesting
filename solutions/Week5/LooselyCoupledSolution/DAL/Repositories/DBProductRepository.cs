@@ -5,6 +5,7 @@ namespace Catalog;
 
 //1.UI Layer  (UI Logic)  (HTML, JS, CSS, Angular, react, vue,etc)
 //2.Web Layer (Web Logic)  (state mgmt, auth, authoriziation, caching,....)
+//3.Controller Layer(Processing layer)
 //3.Service Layer()---
 //4.Business Logic Layer (Domain specific logic)
 //5.Data Access Logic Layer( DAL)

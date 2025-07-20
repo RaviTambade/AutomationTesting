@@ -149,4 +149,3 @@ That’s the real **power of abstraction**.
 
 Then even if you change your furniture (DB provider), paint (UI framework), or tenant (user), your **building stays strong**!
 
- 
