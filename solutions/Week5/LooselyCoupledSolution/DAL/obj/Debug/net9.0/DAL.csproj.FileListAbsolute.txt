@@ -1,0 +1,16 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.Up2Date
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week5\LooselyCoupledSolution\DAL\obj\Debug\net9.0\ref\DAL.dll
