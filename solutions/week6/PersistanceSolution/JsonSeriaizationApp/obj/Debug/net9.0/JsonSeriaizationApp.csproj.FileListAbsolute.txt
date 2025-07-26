@@ -1,0 +1,15 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\bin\Debug\net9.0\JsonSeriaizationApp.exe
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\bin\Debug\net9.0\JsonSeriaizationApp.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\bin\Debug\net9.0\JsonSeriaizationApp.runtimeconfig.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\bin\Debug\net9.0\JsonSeriaizationApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\bin\Debug\net9.0\JsonSeriaizationApp.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\refint\JsonSeriaizationApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\JsonSeriaizationApp.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\PersistanceSolution\JsonSeriaizationApp\obj\Debug\net9.0\ref\JsonSeriaizationApp.dll
