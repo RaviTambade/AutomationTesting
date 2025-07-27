@@ -86,3 +86,156 @@ So next time you hit a bug, don’t panic.
 Smile.
 Because you’re about to **level up as a developer**.
  
+
+ 
+
+###  🐞 Debugging .NET 9.0 Applications in Visual Studio Code
+
+
+## ✅ Prerequisites
+
+1. ✅ **Install .NET SDK 9.0**
+
+   * Download from [.NET 9.0 Preview or Latest](https://dotnet.microsoft.com/download)
+
+2. ✅ **Install Visual Studio Code**
+
+3. ✅ **Install C# Extension**
+
+   * Go to Extensions (`Ctrl+Shift+X`) → Install **"C#"** by Microsoft
+
+## 🚀 Create or Open Your Project
+
+Create a .NET 9.0 console app:
+
+```bash
+dotnet new console -n MyApp -f net9.0
+cd MyApp
+code .
+```
+
+> 🔁 Replace `console` with `webapi`, `mvc`, or other templates as needed.
+
+
+## 🏗️ Build & Run from Terminal (Test)
+
+```bash
+dotnet build
+dotnet run
+```
+
+Ensure the app works before debugging.
+
+
+## 📁 Configure Debugging in VS Code
+
+### Step 1: Add `.vscode/launch.json`
+
+1. Press `Ctrl + Shift + D` (Run & Debug)
+2. Click **"create a launch.json file"**
+3. Select **“.NET Core”**
+
+Update it for **.NET 9.0**:
+
+```json
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET 9.0 Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/bin/Debug/net9.0/MyApp.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "stopAtEntry": false,
+      "console": "internalConsole"
+    }
+  ]
+}
+```
+
+> 🔁 Update `"MyApp.dll"` with your actual project name if different.
+
+### Step 2: Optional `.vscode/tasks.json`
+
+```json
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build",
+      "command": "dotnet",
+      "type": "process",
+      "args": [
+        "build",
+        "${workspaceFolder}/MyApp.csproj"
+      ],
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
+```
+
+## 🔴 Set Breakpoints
+
+* Open a `.cs` file
+* Click on the **left margin** to set a **red dot**
+* That’s your breakpoint
+
+## ▶ Start Debugging
+
+* Press `F5` or click **Run → Start Debugging**
+* Execution pauses at breakpoints
+* Use:
+
+  * `F10` – Step Over
+  * `F11` – Step Into
+  * `Shift+F11` – Step Out
+  * Debug Console and Variables panel for inspection
+
+## 🌐 Debug ASP.NET Core 9.0 App
+
+Use this in `launch.json` for web APIs or MVC:
+
+```json
+{
+  "name": ".NET 9.0 Web API",
+  "type": "coreclr",
+  "request": "launch",
+  "preLaunchTask": "build",
+  "program": "${workspaceFolder}/bin/Debug/net9.0/MyWebApp.dll",
+  "args": [],
+  "cwd": "${workspaceFolder}",
+  "stopAtEntry": false,
+  "serverReadyAction": {
+    "action": "openExternally",
+    "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+  },
+  "env": {
+    "ASPNETCORE_ENVIRONMENT": "Development"
+  },
+  "sourceFileMap": {
+    "/Views": "${workspaceFolder}/Views"
+  }
+}
+```
+
+## 🧯 Common Troubleshooting
+
+| 🔍 Problem               | ✅ Solution                                      |
+| ------------------------ | ----------------------------------------------- |
+| Breakpoints not hit      | Ensure `Debug` build is selected                |
+| DLL not found            | Confirm correct path to `.dll` in `launch.json` |
+| Nothing happens on `F5`  | Ensure `launch.json` is created and valid       |
+| C# extension not loading | Reload VS Code, or reinstall the extension      |
+
+## 🧪 Confirm .NET 9.0 Target
+
+Check your `.csproj`:
+
+```xml
+<TargetFramework>net9.0</TargetFramework>
+```
+ 
