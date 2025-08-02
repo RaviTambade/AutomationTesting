@@ -1,0 +1,65 @@
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.Up2Date
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\DAL\obj\Debug\net9.0\ref\DAL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.deps.json
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.Up2Date
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\refint\DAL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\ref\DAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.deps.json
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.Up2Date
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\refint\DAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\obj\Debug\net9.0\ref\DAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\Utility.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\DAL\bin\Debug\net9.0\Utility.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\DAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\Utility.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\BOL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\bin\Debug\net9.0\Utility.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.csproj.Up2Date
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\DAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\DAL\obj\Debug\net9.0\ref\DAL.dll

@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB915B-5E4E-D85F-2DBD-101886C089E8}|BOL\\BOL.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\bol\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB915B-5E4E-D85F-2DBD-101886C089E8}|BOL\\BOL.csproj|solutionrelative:bol\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6795A5EE-8D55-40EC-A7EB-AC7C361EA2FA}|DBAPP\\DBAPP.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\dbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6795A5EE-8D55-40EC-A7EB-AC7C361EA2FA}|DBAPP\\DBAPP.csproj|solutionrelative:dbapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6795A5EE-8D55-40EC-A7EB-AC7C361EA2FA}|DBAPP\\DBAPP.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\dbapp\\dbapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6795A5EE-8D55-40EC-A7EB-AC7C361EA2FA}|DBAPP\\DBAPP.csproj|solutionrelative:dbapp\\dbapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\dal\\repositeries\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repositeries\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADB915B-5E4E-D85F-2DBD-101886C089E8}|BOL\\BOL.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\bol\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADB915B-5E4E-D85F-2DBD-101886C089E8}|BOL\\BOL.csproj|solutionrelative:bol\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{066D5ABA-5170-1EBE-2E3D-24AC93AE8A76}|SAL\\SAL.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\sal\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{066D5ABA-5170-1EBE-2E3D-24AC93AE8A76}|SAL\\SAL.csproj|solutionrelative:sal\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1814D4E-EDAC-9385-72D6-010970EA1373}|RepoTest\\RepoTest.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\repotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1814D4E-EDAC-9385-72D6-010970EA1373}|RepoTest\\RepoTest.csproj|solutionrelative:repotest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{044812A2-CD5F-42CD-A0EA-A20D3DC9040E}|Utility\\Utility.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week6\\looselycoupledsolution\\utility\\jsonfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{044812A2-CD5F-42CD-A0EA-A20D3DC9040E}|Utility\\Utility.csproj|solutionrelative:utility\\jsonfilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\BOL\\Class1.cs",
+              "RelativeDocumentMoniker": "BOL\\Class1.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\BOL\\Class1.cs",
+              "RelativeToolTip": "BOL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T05:07:14.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBAPP",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\DBAPP\\DBAPP.csproj",
+              "RelativeDocumentMoniker": "DBAPP\\DBAPP.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\DBAPP\\DBAPP.csproj",
+              "RelativeToolTip": "DBAPP\\DBAPP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-02T05:00:40.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\DBAPP\\Program.cs",
+              "RelativeDocumentMoniker": "DBAPP\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\DBAPP\\Program.cs",
+              "RelativeToolTip": "DBAPP\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwA4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T04:48:02.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\BOL\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "BOL\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\BOL\\Entities\\Employee.cs",
+              "RelativeToolTip": "BOL\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:36:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\DAL\\Repositeries\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositeries\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\DAL\\Repositeries\\EmployeeRepository.cs",
+              "RelativeToolTip": "DAL\\Repositeries\\EmployeeRepository.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAIAwwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:09:39.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonFileManager.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\Utility\\JsonFileManager.cs",
+              "RelativeDocumentMoniker": "Utility\\JsonFileManager.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\Utility\\JsonFileManager.cs",
+              "RelativeToolTip": "Utility\\JsonFileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:09:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\SAL\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SAL\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\SAL\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "SAL\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAApwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:09:13.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\RepoTest\\Program.cs",
+              "RelativeDocumentMoniker": "RepoTest\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\week6\\LooselyCoupledSolution\\RepoTest\\Program.cs",
+              "RelativeToolTip": "RepoTest\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAMwEgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T06:08:42.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

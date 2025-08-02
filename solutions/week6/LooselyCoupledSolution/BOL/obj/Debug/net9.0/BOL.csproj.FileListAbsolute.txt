@@ -1,0 +1,45 @@
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.deps.json
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfoInputs.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfo.cs
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.csproj.CoreCompileInputs.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\refint\BOL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\BOL\obj\Debug\net9.0\ref\BOL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.deps.json
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfoInputs.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfo.cs
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.csproj.CoreCompileInputs.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\refint\BOL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\ref\BOL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.deps.json
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfoInputs.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfo.cs
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.csproj.CoreCompileInputs.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\refint\BOL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\BOL\obj\Debug\net9.0\ref\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\bin\Debug\net9.0\BOL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\refint\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\BOL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\BOL\obj\Debug\net9.0\ref\BOL.dll

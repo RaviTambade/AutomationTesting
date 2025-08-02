@@ -1,0 +1,81 @@
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\API.deps.json
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\API.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\API.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.Up2Date
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\refint\API.dll
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\API.pdb
+D:\Vishal Kolekar Documents\TAP\LooselyCoupledSolution\API\obj\Debug\net9.0\ref\API.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\API.deps.json
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\API.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\API.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.Up2Date
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\refint\API.dll
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.pdb
+C:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\ref\API.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\API.deps.json
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\API.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\API.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.Up2Date
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\refint\API.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\API.pdb
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\obj\Debug\net9.0\ref\API.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\Utility.dll
+V:\TAP\LooselyCoupledSolution\LooselyCoupledSolution\API\bin\Debug\net9.0\Utility.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\API.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\API.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\API.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\Utility.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\BOL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\SAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\DAL.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\bin\Debug\net9.0\Utility.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.csproj.Up2Date
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\refint\API.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\API.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\week6\LooselyCoupledSolution\API\obj\Debug\net9.0\ref\API.dll
