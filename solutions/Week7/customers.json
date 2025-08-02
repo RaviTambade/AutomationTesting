@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "John Doe",
+    "Address": "1234 Elm Street, Springfield, IL 62701",
+    "Phone": "555-1234",
+    "Email": "john.doe@example.com"
+  },
+  {
+    "Id": 2,
+    "Name": "Jane Smith",
+    "Address": "5678 Oak Avenue, Chicago, IL 60601",
+    "Phone": "555-5678",
+    "Email": "jane.smith@example.com"
+  },
+  {
+    "Id": 3,
+    "Name": "Michael Johnson",
+    "Address": "2345 Maple Road, Peoria, IL 61604",
+    "Phone": "555-2345",
+    "Email": "michael.johnson@example.com"
+  },
+  {
+    "Id": 4,
+    "Name": "Emily Davis",
+    "Address": "6789 Pine Street, Decatur, IL 62521",
+    "Phone": "555-6789",
+    "Email": "emily.davis@example.com"
+  }
+]

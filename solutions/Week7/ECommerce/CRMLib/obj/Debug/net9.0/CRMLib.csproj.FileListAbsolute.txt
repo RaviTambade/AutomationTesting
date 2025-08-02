@@ -1,0 +1,13 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\bin\Debug\net9.0\CRMLib.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\bin\Debug\net9.0\CRMLib.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\bin\Debug\net9.0\CRMLib.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\refint\CRMLib.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\CRMLib.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMLib\obj\Debug\net9.0\ref\CRMLib.dll

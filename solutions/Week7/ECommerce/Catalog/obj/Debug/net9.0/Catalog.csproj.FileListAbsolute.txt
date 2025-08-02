@@ -1,0 +1,12 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\bin\Debug\net9.0\Catalog.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\bin\Debug\net9.0\Catalog.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\bin\Debug\net9.0\Catalog.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\refint\Catalog.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\Catalog.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\Catalog\obj\Debug\net9.0\ref\Catalog.dll

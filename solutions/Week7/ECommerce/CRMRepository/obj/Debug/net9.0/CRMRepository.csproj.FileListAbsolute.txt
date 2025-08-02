@@ -1,0 +1,12 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\bin\Debug\net9.0\CRMRepository.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\bin\Debug\net9.0\CRMRepository.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\bin\Debug\net9.0\CRMRepository.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\refint\CRMRepository.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\CRMRepository.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\ECommerce\CRMRepository\obj\Debug\net9.0\ref\CRMRepository.dll
