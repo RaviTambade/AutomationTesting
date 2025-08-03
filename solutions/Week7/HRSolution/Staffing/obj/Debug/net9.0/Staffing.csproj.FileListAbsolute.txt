@@ -1,0 +1,13 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\bin\Debug\net9.0\Staffing.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\bin\Debug\net9.0\Staffing.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\bin\Debug\net9.0\Staffing.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.csproj.AssemblyReference.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\refint\Staffing.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\Staffing.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week7\HRSolution\Staffing\obj\Debug\net9.0\ref\Staffing.dll
