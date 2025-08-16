@@ -86,7 +86,6 @@ Mentor shows students how the **request body becomes a C# object** thanks to mod
 👨‍🏫 **Mentor:**
 “You didn’t deserialize manually, right? That’s abstraction at work. The framework handles the plumbing; you focus on logic.”
 
-
 ## 🚜 Farming Analogy
 
 * **Entities (POCOs)** = Crops 🌾
