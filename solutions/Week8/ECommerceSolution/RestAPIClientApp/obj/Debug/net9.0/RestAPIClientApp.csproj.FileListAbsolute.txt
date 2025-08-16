@@ -1,0 +1,15 @@
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\bin\Debug\net9.0\RestAPIClientApp.exe
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\bin\Debug\net9.0\RestAPIClientApp.deps.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\bin\Debug\net9.0\RestAPIClientApp.runtimeconfig.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\bin\Debug\net9.0\RestAPIClientApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\bin\Debug\net9.0\RestAPIClientApp.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.AssemblyInfoInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.AssemblyInfo.cs
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.csproj.CoreCompileInputs.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.sourcelink.json
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\refint\RestAPIClientApp.dll
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.pdb
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\RestAPIClientApp.genruntimeconfig.cache
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week8\ECommerceSolution\RestAPIClientApp\obj\Debug\net9.0\ref\RestAPIClientApp.dll

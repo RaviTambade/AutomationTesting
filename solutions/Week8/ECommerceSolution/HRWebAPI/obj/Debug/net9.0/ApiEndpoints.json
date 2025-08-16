@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HRWebAPI.Product, HRWebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[HRWebAPI.Entities.Product, HRWebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -29,7 +29,7 @@
     "Parameters": [
       {
         "Name": "product",
-        "Type": "HRWebAPI.Product",
+        "Type": "HRWebAPI.Entities.Product",
         "IsRequired": true
       }
     ],
@@ -57,7 +57,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "HRWebAPI.Product",
+        "Type": "HRWebAPI.Entities.Product",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -82,7 +82,7 @@
       },
       {
         "Name": "value",
-        "Type": "HRWebAPI.Product",
+        "Type": "HRWebAPI.Entities.Product",
         "IsRequired": true
       }
     ],
@@ -112,26 +112,6 @@
       {
         "Type": "System.Void",
         "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "HRWebAPI.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[HRWebAPI.WeatherForecast, HRWebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
         "StatusCode": 200
       }
     ]

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRWebAPI", "HRWebAPI\HRWebA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{3AABCDBD-79F9-47BD-AF7E-1010A2D8B9A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestAPIClientApp", "RestAPIClientApp\RestAPIClientApp.csproj", "{4CCD8F37-6B72-4656-8977-B44C202B70DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3AABCDBD-79F9-47BD-AF7E-1010A2D8B9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AABCDBD-79F9-47BD-AF7E-1010A2D8B9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AABCDBD-79F9-47BD-AF7E-1010A2D8B9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CCD8F37-6B72-4656-8977-B44C202B70DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CCD8F37-6B72-4656-8977-B44C202B70DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CCD8F37-6B72-4656-8977-B44C202B70DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CCD8F37-6B72-4656-8977-B44C202B70DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
