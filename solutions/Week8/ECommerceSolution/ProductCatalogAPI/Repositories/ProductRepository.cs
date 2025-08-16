@@ -1,36 +1,34 @@
 ﻿using ProductCatalogAPI.Entities;
 namespace ProductCatalogAPI.Repositories
 {
-    public class ProductRepository : IProductRepository
+    public class ProductRepository : IProductRespository
     {
-        public Task<IEnumerable<Product>> GetAllAsync()
+         
+  
+
+        public Task<IEnumerable<Product>> GetProductsAsync()
         {
-            // Implementation placeholder
-            return Task.FromResult<IEnumerable<Product>>(new List<Product>());
+            throw new NotImplementedException();
         }
 
-        public Task<Product?> GetByIdAsync(int id)
+        public Task<Product> GetProductAsync(int id)
         {
-            // Implementation placeholder
-            return Task.FromResult<Product?>(null);
+            throw new NotImplementedException();
         }
 
-        public Task AddAsync(Product product)
+        public Task<Product> CreateProductAsync(Product product)
         {
-            // Implementation placeholder
-            return Task.CompletedTask;
+            throw new NotImplementedException();
         }
 
-        public Task UpdateAsync(Product product)
+        public Task<Product> UpdateProductAsync(Product product)
         {
-            // Implementation placeholder
-            return Task.CompletedTask;
+            throw new NotImplementedException();
         }
 
-        public Task DeleteAsync(int id)
+        public Task<bool> DeleteProductAsync(int id)
         {
-            // Implementation placeholder
-            return Task.CompletedTask;
+            throw new NotImplementedException();
         }
     }
 

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "xHdIWJZ6TcV0s8cgsXci8evEeJYjgr9g53lKaUOyqUM=",
+  "Source": "HRWebAPI",
+  "BasePath": "_content/HRWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
