@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\hrwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\hrwebapi\\hrwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\hrwebapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\hrwebapi\\hrwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\hrwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\hrwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\hrwebapi\\hrwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\hrwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{004B96F9-BB00-4452-BE0D-227006C4FB75}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004B96F9-BB00-4452-BE0D-227006C4FB75}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004B96F9-BB00-4452-BE0D-227006C4FB75}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{004B96F9-BB00-4452-BE0D-227006C4FB75}|ProductCatalogAPI\\ProductCatalogAPI.csproj|solutionrelative:productcatalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\hrwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71BA0052-2851-481E-AC9C-1CD6146E3A0E}|HRWebAPI\\HRWebAPI.csproj|solutionrelative:hrwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{004B96F9-BB00-4452-BE0D-227006C4FB75}|ProductCatalogAPI\\ProductCatalogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\ecommercesolution\\productcatalogapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,16 +54,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HRWebAPI",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\HRWebAPI.csproj",
+              "RelativeDocumentMoniker": "HRWebAPI\\HRWebAPI.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\HRWebAPI.csproj",
+              "RelativeToolTip": "HRWebAPI\\HRWebAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-16T04:49:45.073Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "HRWebAPI",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\HRWebAPI.csproj",
               "RelativeDocumentMoniker": "HRWebAPI\\HRWebAPI.csproj",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\HRWebAPI.csproj*",
-              "RelativeToolTip": "HRWebAPI\\HRWebAPI.csproj*",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\HRWebAPI.csproj",
+              "RelativeToolTip": "HRWebAPI\\HRWebAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-08-16T04:43:20.209Z",
@@ -76,24 +92,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HRWebAPI\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Program.cs",
+              "RelativeToolTip": "HRWebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T03:49:27.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "HRWebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Controllers\\ProductsController.cs*",
-              "RelativeToolTip": "HRWebAPI\\Controllers\\ProductsController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "HRWebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T03:56:59.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "HRWebAPI\\Entities\\Product.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Entities\\Product.cs*",
-              "RelativeToolTip": "HRWebAPI\\Entities\\Product.cs*",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Entities\\Product.cs",
+              "RelativeToolTip": "HRWebAPI\\Entities\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-16T03:54:44.195Z",
@@ -101,20 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "HRWebAPI\\Program.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\HRWebAPI\\Program.cs",
-              "RelativeToolTip": "HRWebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T03:49:27.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\ProductCatalogAPI\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Entities\\Product.cs",
@@ -127,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\ProductCatalogAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Program.cs",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\ProductCatalogAPI\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Repositories\\ProductRepository.cs",
@@ -153,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IProductRespository.cs",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\ProductCatalogAPI\\Repositories\\IProductRespository.cs",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\Repositories\\IProductRespository.cs",
@@ -166,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProductCatalogAPI.csproj",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\ProductCatalogAPI\\ProductCatalogAPI.csproj",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\ProductCatalogAPI.csproj",
@@ -178,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ECommerceSolution\\ProductCatalogAPI\\appsettings.json",
               "RelativeDocumentMoniker": "ProductCatalogAPI\\appsettings.json",
