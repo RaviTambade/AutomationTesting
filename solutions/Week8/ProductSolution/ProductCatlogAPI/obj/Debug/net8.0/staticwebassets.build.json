@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sblAskUYxSiq2KALRk8ge6Lnlahio+GW2KPP1ieVdCc=",
+  "Source": "ProductCatlogAPI",
+  "BasePath": "_content/ProductCatlogAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

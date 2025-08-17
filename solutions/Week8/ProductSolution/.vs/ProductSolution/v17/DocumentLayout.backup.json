@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\repository\\implementation\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\repository\\implementation\\productrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\service\\implementation\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\service\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\repository\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\repository\\interface\\iproductrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\productcatlogapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F8069F-1B3A-41C9-893A-67BB20540B1C}|ProductCatlogAPI\\ProductCatlogAPI.csproj|solutionrelative:productcatlogapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B3AC5F2-AC54-4144-931C-9BB70F04CC2B}|RestApiClientApp\\RestApiClientApp.csproj|d:\\ravi\\tap\\tap\\weekendjune25\\solutions\\week8\\productsolution\\restapiclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B3AC5F2-AC54-4144-931C-9BB70F04CC2B}|RestApiClientApp\\RestApiClientApp.csproj|solutionrelative:restapiclientapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Controller\\ProductController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Controller\\ProductController.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Controller\\ProductController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T05:16:41.254Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Service\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Service\\Interface\\IProductService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Service\\Interface\\IProductService.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Service\\Interface\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:48:02.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductRepo.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Repository\\Interface\\IProductRepo.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Repository\\Interface\\IProductRepo.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Repository\\Interface\\IProductRepo.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Repository\\Interface\\IProductRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:44:32.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Service\\Implementation\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Service\\Implementation\\ProductService.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Service\\Implementation\\ProductService.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Service\\Implementation\\ProductService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:49:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Program.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:03:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepo.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Repository\\Implementation\\ProductRepo.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Repository\\Implementation\\ProductRepo.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Repository\\Implementation\\ProductRepo.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Repository\\Implementation\\ProductRepo.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:15:21.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Entity\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCatlogAPI\\Entity\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\ProductCatlogAPI\\Entity\\Product.cs",
+              "RelativeToolTip": "ProductCatlogAPI\\Entity\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T03:43:37.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\RestApiClientApp\\Program.cs",
+              "RelativeDocumentMoniker": "RestApiClientApp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\weekendjune25\\solutions\\Week8\\ProductSolution\\RestApiClientApp\\Program.cs",
+              "RelativeToolTip": "RestApiClientApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T16:44:28.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
