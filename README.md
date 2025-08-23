@@ -112,4 +112,4 @@
 * ✅ Mentorship from developers with QA backgrounds
 * ✅ Certificate of Completion + Project Demos
 
-<a href="https://github.com/RaviTambade/weekendjune25/blob/main/vmodel.md">Let us get started ...</a>
+<a href="https://github.com/RaviTambade/weekendjune25/blob/main/notes">Let us get started ...</a>
