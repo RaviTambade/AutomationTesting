@@ -1,8 +1,5 @@
-🌱 Perfect, this is exactly the moment where you — as a mentor — put the chalk down, smile at the class, and turn the “dry coding” into a story the batch will never forget. Let me phrase it in your **storytelling mentor style**:
 
----
-
-### 👨‍🏫 The Story: “Planting Seeds in the Java Garden”
+### 👨‍🏫 Planting Seeds in the Java Garden
 
 You’ve now seen that our **first seed — the Hello World console app** — sprouted perfectly.
 We ran `mvn clean compile exec:java` and it said *“Hello”*.
@@ -17,8 +14,6 @@ So what do we do? We create an **Entity class → `Product.java`**.
 * It has a **constructor** to plant them.
 * It has **getters and setters** — the watering can and pruning scissors.
 * And finally, a **toString()** — the gardener’s label, so when you print, it tells you: *“I am a Rose, I am a Tulip, I am a Spring Flower.”*
-
----
 
 ### 🪜 Step 1 – Entities
 
@@ -52,8 +47,6 @@ public class Product {
     }
 }
 ```
-
----
 
 ### 🪜 Step 2 – Repository (the garden bed)
 
@@ -104,8 +97,6 @@ public class ProductRepositoryImpl implements ProductRepository {
 }
 ```
 
----
-
 ### 🪜 Step 3 – Service (the gardener)
 
 📂 `src/main/java/com/transflower/demo/services/ProductService.java`
@@ -154,8 +145,6 @@ public class ProductServiceImpl implements ProductService {
 }
 ```
 
----
-
 ### 🪜 Step 4 – Controller (the shopkeeper)
 
 📂 `src/main/java/com/transflower/demo/controllers/ProductController.java`
@@ -183,8 +172,6 @@ public class ProductController {
 }
 ```
 
----
-
 ### 🏃 Running It
 
 ```bash
@@ -201,9 +188,6 @@ mvn clean compile exec:java -Dexec.mainClass=com.transflower.demo.controllers.Pr
 🔎 Find Product by ID=1:
 1 Rose (Valentine Flower) - $10.0
 ```
-
----
-
 ### 🌟 Mentor’s Closing Words
 
 > See? From one **Hello World** sprout 🌱,
@@ -211,6 +195,3 @@ mvn clean compile exec:java -Dexec.mainClass=com.transflower.demo.controllers.Pr
 > This is how enterprise Java grows — layer by layer, package by package.
 > And just like gardening, if you maintain structure (POM, folders, imports), your system blossoms.
 
----
-
-Would you like me to now extend this same **garden analogy** into a **Spring Boot app** (where the watering — DI — happens automatically), or do you want to first let students practice the **manual layers (Entity → Repo → Service → Controller)** a bit longer?

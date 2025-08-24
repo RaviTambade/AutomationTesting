@@ -1,17 +1,10 @@
-🔥 love this—exactly the kind of “real dev life” moment students remember. Let’s keep the mentor hat on and fix this cleanly, while tightening the story around **Maven + runnable JARs** (and when you actually need a **WAR** for web apps).
 
-I’ve also dropped in an updated visual of the pipelines (Java console, fat JAR, Java webapp, and C#) right above—use it to anchor the discussion with your batch.
-
----
-
-## 🧑‍🏫 The Story: “Two Brothers learn DevOps”
+## 🧑‍🏫 Two Brothers learn DevOps
 
 > *Java says:* “I’m stable. Give me a **POM**, I’ll build like a machine.”
 > *C# replies:* “I’m productive. Give me **MSBuild/dotnet**, I’ll ship fast.”
 
 Both brothers learned the same trick: **automate the kitchen** so developers focus on cooking logic, not washing dishes.
-
----
 
 ## ⚠️ Why your JAR didn’t run (and how to fix it)
 
@@ -31,8 +24,6 @@ There are **three common gotchas** that exactly match what you hit:
 ### 3) The **exec plugin** wasn’t configured correctly
 
 * Error like: *“parameters main class for goal … missing”* or *“element mainClass must contain child element”* means the plugin `<configuration>` or the main class FQN is wrong/missing.
-
----
 
 ## ✅ Do this for a **Console App** (runnable JAR)
 
@@ -124,8 +115,6 @@ mvn -q clean package
 java -jar target/hello-console-1.0-SNAPSHOT-shaded.jar
 ```
 
----
-
 ## ✅ Do this for a **Web App** (WAR) created via `maven-archetype-webapp`
 
 If you **intended** to build a web app (Servlet/JSP), your `packaging` is **war**. Don’t run it with `java -jar`.
@@ -166,8 +155,6 @@ You’ll get `target/<artifactId>.war`. Copy it to `TOMCAT_HOME/webapps/` and st
 
 * Create a Spring Boot project (web starter), `mvn spring-boot:run` or `java -jar` works out-of-the-box.
 
----
-
 ## 🛠️ Tiny Fixes to things you typed
 
 * The command you wanted was:
@@ -201,8 +188,6 @@ You’ll get `target/<artifactId>.war`. Copy it to `TOMCAT_HOME/webapps/` and st
   src/test/resources
   ```
 
----
-
 ## 🧠 One-Minute Mentor Cheat-Sheet
 
 * **Console app?** → quickstart archetype → exec\:java → (optional) jar plugin → (optional) shade.
@@ -210,6 +195,3 @@ You’ll get `target/<artifactId>.war`. Copy it to `TOMCAT_HOME/webapps/` and st
 * **Failing `java -jar`?** → check `packaging` (war vs jar), and **Main-Class** in manifest.
 * **Exec plugin error?** → add `<mainClass>fully.qualified.Name</mainClass>` or pass `-Dexec.mainClass=...`.
 
----
-
-If you want, I can paste a **complete `pom.xml`** for each scenario (console-jar, console-fat-jar, webapp-jetty) tailored to your `com.transflower.ecommerce` naming—just say the word and which one you want to teach first.
