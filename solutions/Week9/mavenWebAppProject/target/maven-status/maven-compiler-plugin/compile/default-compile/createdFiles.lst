@@ -1,0 +1,6 @@
+com\transflower\ecommerce\demo\entities\Product.class
+com\transflower\ecommerce\demo\repositories\ProductRepositoryImpl.class
+com\transflower\ecommerce\demo\services\ProductService.class
+com\transflower\ecommerce\demo\App.class
+com\transflower\ecommerce\demo\repositories\ProductRepository.class
+com\transflower\ecommerce\demo\services\ProductServiceImpl.class
