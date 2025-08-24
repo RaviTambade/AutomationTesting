@@ -1,6 +1,11 @@
-com\transflower\ecommerce\demo\entities\Product.class
-com\transflower\ecommerce\demo\repositories\ProductRepositoryImpl.class
-com\transflower\ecommerce\demo\services\ProductService.class
-com\transflower\ecommerce\demo\App.class
-com\transflower\ecommerce\demo\repositories\ProductRepository.class
-com\transflower\ecommerce\demo\services\ProductServiceImpl.class
+com\transflower\ecommerce\membership\entities\User.class
+com\transflower\ecommerce\catalog\services\ProductService.class
+com\transflower\ecommerce\catalog\services\ProductServiceImpl.class
+com\transflower\ecommerce\membership\repositories\UserRepository.class
+com\transflower\ecommerce\membership\services\UserService.class
+com\transflower\ecommerce\catalog\repositories\ProductRepository.class
+com\transflower\ecommerce\catalog\entities\Product.class
+com\transflower\ecommerce\catalog\repositories\ProductRepositoryImpl.class
+com\transflower\ecommerce\membership\services\UserServiceImpl.class
+com\transflower\ecommerce\membership\repositories\UserRepositoryImpl.class
+com\transflower\ecommerce\App.class

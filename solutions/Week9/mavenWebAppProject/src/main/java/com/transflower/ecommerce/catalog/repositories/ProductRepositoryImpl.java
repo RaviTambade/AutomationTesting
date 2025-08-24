@@ -1,6 +1,6 @@
-package com.transflower.ecommerce.demo.repositories;
+package com.transflower.ecommerce.catalog.repositories;
 import java.util.*;
-import com.transflower.ecommerce.demo.entities.Product;
+import com.transflower.ecommerce.catalog.entities.Product;
 
 public class ProductRepositoryImpl implements ProductRepository
 {

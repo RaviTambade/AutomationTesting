@@ -1,7 +1,7 @@
-package com.transflower.ecommerce.demo.services;
+package com.transflower.ecommerce.catalog.services;
 import java.util.List;
-import com.transflower.ecommerce.demo.entities.Product;
-import com.transflower.ecommerce.demo.repositories.*;
+import com.transflower.ecommerce.catalog.entities.Product;
+import com.transflower.ecommerce.catalog.repositories.*;
 
 
 

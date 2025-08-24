@@ -1,8 +1,8 @@
-package com.transflower.ecommerce.demo;
+package com.transflower.ecommerce;
 import java.util.List;
-import com.transflower.ecommerce.demo.entities.Product;
-import com.transflower.ecommerce.demo.repositories.*;
-import com.transflower.ecommerce.demo.services.*;
+import com.transflower.ecommerce.catalog.entities.Product;
+import com.transflower.ecommerce.catalog.repositories.*;
+import com.transflower.ecommerce.catalog.services.*;
 
 
 public class App 

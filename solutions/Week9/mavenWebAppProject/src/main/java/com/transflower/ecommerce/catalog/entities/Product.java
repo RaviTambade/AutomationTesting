@@ -1,4 +1,4 @@
-package com.transflower.ecommerce.demo.entities;
+package com.transflower.ecommerce.catalog.entities;
 
 public class Product
 {

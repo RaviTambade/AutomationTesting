@@ -83,7 +83,6 @@ Even if family members live in different houses, they share one surname — that
 Why? Because `toString()` converts the internal state of the object into a **human-readable string**.
 So whenever we want to transport data (console, file, network, serialization), it’s best practice to override `toString()`.”\*
 
----
 
 ### 7. Abstract Classes & Interfaces 🎭
 

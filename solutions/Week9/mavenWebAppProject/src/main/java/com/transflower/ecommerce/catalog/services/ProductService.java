@@ -1,6 +1,6 @@
-package com.transflower.ecommerce.demo.services;
+package com.transflower.ecommerce.catalog.services;
 import java.util.*;
-import com.transflower.ecommerce.demo.entities.Product;
+import com.transflower.ecommerce.catalog.entities.Product;
 
 public interface ProductService {
     // Define service methods here

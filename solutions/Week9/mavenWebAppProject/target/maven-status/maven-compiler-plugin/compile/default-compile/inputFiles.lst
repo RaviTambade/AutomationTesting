@@ -1,6 +1,11 @@
-D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\demo\repositories\ProductRepositoryImpl.java
-D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\demo\entities\Product.java
-D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\demo\services\ProductService.java
-D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\demo\repositories\ProductRepository.java
-D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\demo\services\ProductServiceImpl.java
-D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\demo\App.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\catalog\services\ProductService.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\membership\services\UserService.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\catalog\services\ProductServiceImpl.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\membership\entities\User.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\catalog\entities\Product.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\catalog\repositories\ProductRepository.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\membership\repositories\UserRepository.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\membership\services\UserServiceImpl.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\catalog\repositories\ProductRepositoryImpl.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\membership\repositories\UserRepositoryImpl.java
+D:\Ravi\TAP\TAP\weekendjune25\solutions\Week9\mavenWebAppProject\src\main\java\com\transflower\ecommerce\App.java
