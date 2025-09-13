@@ -9,7 +9,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        //java lang 
+        Product p1=new Product(1, "Gerbera","Wedding Flower", 109);
         ProductRepository productRepository = new ProductRepositoryImpl();
         ProductService productService = new ProductServiceImpl(productRepository);
         Product product = new Product(1, "Rose","Valentine Flower", 109);
@@ -22,3 +23,7 @@ public class App
 
     }
 }
+
+
+//mvn package 
+//mvn clean compile exec:java
