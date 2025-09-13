@@ -1,0 +1,13 @@
+
+Browser Automation Testing:
+When we test web application:
+1.Open a browser (Chrome, Firefox, Edge, etc.)
+2.Navigate to a URL
+3.Perform actions (click, type, scroll)
+4.Verify results (title, content, state)
+
+End to End Testing
+//UI + backend + database + APIs + external services.
+Seleinium 
+Playwright
+Cypress

@@ -10,7 +10,12 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+//AOP:
+//Aspect Oriented Programming
+
+
 public class GoogleSearchTest {
+    //AAA Pattern
 
     private static WebDriver driver;
 

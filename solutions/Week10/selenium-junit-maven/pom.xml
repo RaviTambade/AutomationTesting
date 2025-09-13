@@ -20,19 +20,21 @@
       <scope>test</scope>
     </dependency>
 
+    <!--Basic Java Test Engine JUnit-->
+
      <dependency>
             <groupId>org.junit.jupiter</groupId>
             <artifactId>junit-jupiter</artifactId>
             <version>${junit.version}</version>
             <scope>test</scope>
-        </dependency>
+      </dependency>
 
         <!-- Selenium Java -->
-        <dependency>
-            <groupId>org.seleniumhq.selenium</groupId>
-            <artifactId>selenium-java</artifactId>
-            <version>${selenium.version}</version>
-        </dependency>
+      <dependency>
+          <groupId>org.seleniumhq.selenium</groupId>
+          <artifactId>selenium-java</artifactId>
+          <version>${selenium.version}</version>
+      </dependency>
 
         <!-- WebDriver Manager (auto handles Chrome/Firefox drivers) -->
         <dependency>
