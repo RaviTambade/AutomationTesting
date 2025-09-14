@@ -1,2 +1,15 @@
+com\transflower\DynamicContentTest.class
+com\transflower\UploadTest.class
+com\transflower\CanvasTest.class
+com\transflower\LoginTest.class
+com\transflower\ModalTest.class
+com\transflower\DragDropTest.class
+com\transflower\DownloadTest.class
+com\transflower\BaseTest.class
+com\transflower\FormTest.class
 com\transflower\GoogleSearchTest.class
 com\transflower\AppTest.class
+com\transflower\RichTextTest.class
+com\transflower\MultiStepFormTest.class
+com\transflower\TableTest.class
+com\transflower\IframeTest.class
