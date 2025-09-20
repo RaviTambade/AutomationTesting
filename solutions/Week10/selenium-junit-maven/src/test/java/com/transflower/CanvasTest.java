@@ -1,15 +1,10 @@
 package com.transflower;
-
-
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 
-
 import static org.assertj.core.api.Assertions.assertThat;
 
-
 public class CanvasTest extends BaseTest {
-
 
 @Test
 public void canvas_element_exists() {
