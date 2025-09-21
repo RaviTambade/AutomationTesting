@@ -1,0 +1,5 @@
+# Created at 2025-09-21T12:24:55.662
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Ravi\TAP\TAP\weekendjune25\solutions\week11\TFLAssesment\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

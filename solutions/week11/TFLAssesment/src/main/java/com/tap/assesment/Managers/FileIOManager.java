@@ -1,4 +1,4 @@
-package com.tap.assesment.FileManager;
+package com.tap.assesment.Managers;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -9,7 +9,7 @@ import java.util.*;
 import com.tap.assesment.Entity.Question;
 
 public class FileIOManager {
-    private String fileName="question.dat";
+    public  String fileName="question.dat";
 
     public void saveToFile(List<Question> questions)
     {

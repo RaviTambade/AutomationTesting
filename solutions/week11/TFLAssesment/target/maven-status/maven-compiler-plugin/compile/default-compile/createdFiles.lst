@@ -1,6 +1,6 @@
-com\tap\assesment\Entity\Question.class
-com\tap\assesment\Repository\QuestionBank.class
 com\tap\assesment\Utils\DBConnection.class
 com\tap\assesment\demo\App.class
-com\tap\assesment\FileManager\FileIOManager.class
+com\tap\assesment\Repository\QuestionBankRepository.class
+com\tap\assesment\Entity\Question.class
+com\tap\assesment\Repository\QuestionBankRepositoryImpl.class
 com\tap\assesment\ui\UIManager.class

@@ -15,7 +15,36 @@ public class Question implements Serializable {
     private char correctAnswer;
     private String subject;
     private int evaluationCriteria;
+    private int subjectId;
 
+    public Question() {
+            this.title = "";
+            this.optionA = "";
+            this.optionB = "";
+            this.optionC = "";
+            this.optionD = "";
+            this.correctAnswer = 'C';
+            this.evaluationCriteria = 0;
+            this.id = 0;
+            this.subject = "";
+            this.subjectId = 0;
+             
+        }
+
+     
+     // Add this constructor to match the test
+    public Question(String title, String optionA, String optionB, String optionC, String optionD, char correctAnswer, int evaluationCriteria, int id, int subjectId) {
+        this.title = title;
+        this.optionA = optionA;
+        this.optionB = optionB;
+        this.optionC = optionC;
+        this.optionD = optionD;
+        this.correctAnswer = correctAnswer;
+        this.evaluationCriteria = evaluationCriteria;
+        this.id = id;
+        this.subject = Integer.toString(subjectId); // Convert subjectId to String
+        this.subjectId = subjectId;
+    }
 
     public Question(String title, String optionA, String optionB, String optionC, String optionD, char correctAnswer,
             String  subject, int evaluationCriteria,int id) {
@@ -86,6 +115,14 @@ public class Question implements Serializable {
         this.optionD = optionD;
     }
 
+    public void setSubjectId(int subjectId) {
+        this.subjectId = subjectId;
+    }
+
+    public int getSubjectId() {
+        return subjectId;
+    }
+ 
     public void setCorrectAnswer(char correctAnswer) {
         this.correctAnswer = correctAnswer;
     }
@@ -104,14 +141,8 @@ public class Question implements Serializable {
 
     @Override
     public String toString() {
-        return "Question{" + "title='" + title + ", id=" + id + ", optionA='" + optionA +
-                ", optionB='" + optionB +
-                ", optionC='" + optionC +
-                ", optionD='" + optionD +
-                ", correctAnswer=" + correctAnswer +
-                ", subject=" + subject +
-                ", evaluationCriteria=" + evaluationCriteria +
-                '}';
+        return this.title;
     }
 
 }
+ 
