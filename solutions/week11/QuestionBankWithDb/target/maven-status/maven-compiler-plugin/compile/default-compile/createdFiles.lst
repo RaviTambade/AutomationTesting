@@ -1,0 +1,7 @@
+com\tap\assesmentDb\Repository\QuestionBankRepository.class
+com\tap\assesmentDb\Services\QuestionBankServiceImpl.class
+com\tap\assesmentDb\UI\UiManager.class
+com\tap\assesmentDb\Repository\QuestionBankRepositoryImpl.class
+com\tap\assesmentDb\Entity\Question.class
+com\tap\assesmentDb\Main\App.class
+com\tap\assesmentDb\Services\QuestionBankService.class
