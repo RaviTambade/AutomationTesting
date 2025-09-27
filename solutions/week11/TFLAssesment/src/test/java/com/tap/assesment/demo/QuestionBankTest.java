@@ -15,6 +15,9 @@ class QuestionTest {
 
     @Test
     void testParameterizedConstructor() {
+
+        //sample object
+        
         Question question = new Question("What is dotnet ?","option1", "option2", "option3", "option4", 'A', 10, 1, 100);
 
         assertEquals("What is dotnet ?", question.getTitle());

@@ -20,13 +20,7 @@ class FileIOManagerTest {
         };
     }
 
-    @AfterEach
-    void tearDown() {
-        File file = new File(testFileName);
-        if (file.exists()) {
-            file.delete();
-        }
-    }
+
 
     @Test
     void testSaveAndLoadQuestions() {
@@ -68,5 +62,14 @@ class FileIOManagerTest {
         List<Question> loadedQuestions = fileIOManager.loadFromFile();
         assertNotNull(loadedQuestions, "Should return empty list if file not found");
         assertTrue(loadedQuestions.isEmpty(), "List should be empty if file not found");
+    }
+
+
+        @AfterEach
+    void tearDown() {
+        File file = new File(testFileName);
+        if (file.exists()) {
+            file.delete();
+        }
     }
 }
