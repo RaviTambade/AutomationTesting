@@ -304,14 +304,7 @@ I always tell students:
 
 
 
-
-Perfect Ravi 👌 — let’s **extend the story** so your students see not just **GET APIs**, but also **full CRUD automation** with RestAssured (POST, PUT, DELETE).
-
-I’ll keep it in the **mentor storytelling style** so they visualize the flow like a real **product management system**.
-
----
-
-## 📖 Mentor’s Story: “CRUD – The Life Cycle of a Product”
+## 📖  “CRUD – The Life Cycle of a Product”
 
 I tell my students:
 
