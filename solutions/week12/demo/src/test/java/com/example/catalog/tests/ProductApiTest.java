@@ -1,6 +1,8 @@
 package com.example.catalog.tests;
 
 import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;
@@ -19,4 +21,74 @@ public class ProductApiTest {
             .body("size()", greaterThan(0))
             .body("[0].name", notNullValue());
     }
+
+    // ✅ GET one product by ID
+    @Test
+    public void getProductById_shouldReturnOne() {
+        given()
+        .when()
+            .get("/products/1")
+        .then()
+            .statusCode(200)
+            .body("name", notNullValue())
+            .body("price", greaterThan(0));
+    }
+
+    @Test
+    public void createProduct_shouldReturn201() {
+        String newProductJson = """
+        {
+            "name": "Wireless Mouse",
+            "price": 1500,
+            "description": "Ergonomic wireless mouse",
+            "category": "Electronics"
+        }
+        """;
+
+        given()
+            .contentType(ContentType.JSON)
+            .body(newProductJson)
+        .when()
+            .post("/products")
+        .then()
+            .statusCode(201) // Created
+            .body("id", notNullValue())
+            .body("name", equalTo("Wireless Mouse"));
+    }
+
+    // ✅ UPDATE product (PUT)
+    @Test
+    public void updateProduct_shouldReturn200() {
+        String updatedProductJson = """
+        {
+            "id": 1,
+            "name": "Headphones - Updated",
+            "price": 2200,
+            "description": "Updated product description",
+            "category": "Electronics"
+        }
+        """;
+
+        given()
+            .contentType(ContentType.JSON)
+            .body(updatedProductJson)
+        .when()
+            .put("/products/1")
+        .then()
+            .statusCode(200)
+            .body("name", equalTo("Headphones - Updated"))
+            .body("price", equalTo(2200));
+    }
+
+    @Test
+    public void deleteProduct_shouldReturn204() {
+        given()
+        .when()
+            .delete("/products/2")
+        .then()
+            .statusCode(204); // No Content
+    }
+
+
+
 }

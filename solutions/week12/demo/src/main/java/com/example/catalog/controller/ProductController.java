@@ -27,4 +27,40 @@ public class ProductController {
                 .findFirst()
                 .orElse(null);
     }
+
+ 
+    @PostMapping
+    public Product createProduct(@RequestBody Product product) {
+        // Generate new ID (max+1)
+
+        System.out.println("Creating product: " + product.getName());
+        int newId = products.stream().mapToInt(Product::getId).max().orElse(0) + 1;
+        product.setId(newId);
+        products.add(product);
+        return product;
+    }
+
+
+    @PutMapping("/{id}")
+    public Product updateProduct(@PathVariable int id, @RequestBody Product updatedProduct) {
+
+        System.out.println("Updating product: " + updatedProduct.getName());
+        for (int i = 0; i < products.size(); i++) {
+            Product p = products.get(i);
+            if (p.getId() == id) {
+                p.setName(updatedProduct.getName());
+                p.setPrice(updatedProduct.getPrice());
+                return p;
+            }
+        }
+        return null; // or throw exception
+    }
+
+    @DeleteMapping("/{id}")
+    public String deleteProduct(@PathVariable int id) {
+
+        System.out.println("Deleting product with ID: " + id);
+        boolean removed = products.removeIf(p -> p.getId() == id);
+        return removed ? "Product deleted successfully" : "Product not found";
+    }
 }
