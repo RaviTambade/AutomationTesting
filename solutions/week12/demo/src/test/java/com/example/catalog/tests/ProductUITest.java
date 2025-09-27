@@ -22,8 +22,8 @@ public class ProductUITest {
     public void testProductCatalogPage() {
         driver.get("http://localhost:9090/index.html");
         List<WebElement> products = driver.findElements(By.tagName("li"));
-       // Assert.assertTrue(products.size() > 0, "Products should be listed");
-       Assert.assertTrue(false, "Products should be listed");
+        Assert.assertTrue(products.size() > 0, "Products should be listed");
+     //  Assert.assertTrue(false, "Products should be listed");
     }
 
     @AfterClass
