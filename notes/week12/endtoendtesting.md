@@ -302,4 +302,167 @@ I always tell students:
 
 > *“E2E tests are like a **dress rehearsal for your system**. You don’t test just the microphone or the stage light separately—you rehearse the whole play from start to finish. That’s when you know your system is production-ready.”*
 
+
+
+
+Perfect Ravi 👌 — let’s **extend the story** so your students see not just **GET APIs**, but also **full CRUD automation** with RestAssured (POST, PUT, DELETE).
+
+I’ll keep it in the **mentor storytelling style** so they visualize the flow like a real **product management system**.
+
+---
+
+## 📖 Mentor’s Story: “CRUD – The Life Cycle of a Product”
+
+I tell my students:
+
+> “Every product in our catalog has a **life cycle**.
+> It is **created (POST)**, later **read (GET)**, sometimes **updated (PUT)**, and finally may be **deleted (DELETE)**.
+>
+> End-to-End testing must cover this full journey.”
+
+Now let’s see how **RestAssured** automates this entire cycle.
+
+
+
+## ⚙️ ProductApiTest.java (Extended with CRUD)
+
+```java
+package com.example.catalog.test;
+
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+import static io.restassured.RestAssured.given;
+import static org.hamcrest.Matchers.*;
+
+public class ProductApiTest {
+
+    @BeforeClass
+    public void setup() {
+        RestAssured.baseURI = "http://localhost:9090/api";
+    }
+
+    // ✅ GET all products
+    @Test
+    public void getAllProducts_shouldReturnList() {
+        given()
+        .when()
+            .get("/products")
+        .then()
+            .statusCode(200)
+            .body("size()", greaterThan(0));
+    }
+
+    // ✅ GET one product by ID
+    @Test
+    public void getProductById_shouldReturnOne() {
+        given()
+        .when()
+            .get("/products/1")
+        .then()
+            .statusCode(200)
+            .body("name", notNullValue())
+            .body("price", greaterThan(0));
+    }
+
+    // ✅ CREATE product (POST)
+    @Test
+    public void createProduct_shouldReturn201() {
+        String newProductJson = """
+        {
+            "name": "Wireless Mouse",
+            "price": 1500,
+            "description": "Ergonomic wireless mouse",
+            "category": "Electronics"
+        }
+        """;
+
+        given()
+            .contentType(ContentType.JSON)
+            .body(newProductJson)
+        .when()
+            .post("/products")
+        .then()
+            .statusCode(201) // Created
+            .body("id", notNullValue())
+            .body("name", equalTo("Wireless Mouse"));
+    }
+
+    // ✅ UPDATE product (PUT)
+    @Test
+    public void updateProduct_shouldReturn200() {
+        String updatedProductJson = """
+        {
+            "id": 1,
+            "name": "Headphones - Updated",
+            "price": 2200,
+            "description": "Updated product description",
+            "category": "Electronics"
+        }
+        """;
+
+        given()
+            .contentType(ContentType.JSON)
+            .body(updatedProductJson)
+        .when()
+            .put("/products/1")
+        .then()
+            .statusCode(200)
+            .body("name", equalTo("Headphones - Updated"))
+            .body("price", equalTo(2200));
+    }
+
+    // ✅ DELETE product (DELETE)
+    @Test
+    public void deleteProduct_shouldReturn204() {
+        given()
+        .when()
+            .delete("/products/2")
+        .then()
+            .statusCode(204); // No Content
+    }
+}
+```
+
+
+
+## 🔍 Walkthrough for Students
+
+* **POST** → *Adds* a new product. We check if response has a new `id`.
+* **GET** → Reads product list or single product details.
+* **PUT** → *Updates* existing product. We assert name/price changed.
+* **DELETE** → Removes a product. We check `204 No Content`.
+
+👉 Together, this forms **CRUD automation**.
+
+
+
+## 🌐 E2E Scenario with CRUD
+
+When we run:
+
+```bash
+mvn test
+```
+
+The sequence validates:
+
+1. Product list is **readable**.
+2. A new product can be **added**.
+3. An existing product can be **updated**.
+4. A product can be **deleted**.
+
+This proves our **Spring Boot API + DB layer** is working correctly from end-to-end.
+
+
+## 🎯 Mentor’s Final Note
+
+I tell my students:
+
+> *“Unit tests are like checking the heartbeat of one organ.
+> Integration tests are like checking two organs working together.
+> But CRUD End-to-End tests? That’s like seeing if the full body can eat, digest, and grow stronger — the real sign of life!”*
+
  
