@@ -67,7 +67,7 @@ namespace ProductCatlogAPI.Controller
         // DELETE api/<ProductController>/5
         [HttpDelete("{id}")]
         public bool Delete(int id)
-        {
+        {w
    
             bool status = _svc.DeleteProduct(id);
             return status;
