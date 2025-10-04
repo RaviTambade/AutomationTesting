@@ -1,7 +1,6 @@
 package com.example.demo.stepdefs;
 
 import io.cucumber.java.en.*;
-
 import static org.testng.Assert.assertEquals;
 
 public class CalculatorSteps {

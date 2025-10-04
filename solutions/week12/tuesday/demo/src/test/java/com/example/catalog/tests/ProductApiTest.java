@@ -23,17 +23,17 @@ public class ProductApiTest {
     }
 
     // ✅ GET one product by ID
-    // @Test
-    // public void getProductById_shouldReturnOne() {
-    //     RestAssured.baseURI = "http://localhost:9090";
-    //     given()
-    //     .when()
-    //         .get("/api/products/1")
-    //     .then()
-    //         .statusCode(200);
-    //         // .body("name", notNullValue())
-    //         // .body("price", greaterThan(14000));
-    // }
+     @Test
+    public void getProductById_shouldReturnOne() {
+        RestAssured.baseURI = "http://localhost:9090";
+        given()
+        .when()
+            .get("/api/products/1")
+        .then()
+            .statusCode(200);
+            // .body("name", notNullValue())
+            // .body("price", greaterThan(14000));
+    }
  
     @Test
     public void createProduct_shouldReturn201() {
@@ -59,27 +59,27 @@ public class ProductApiTest {
     }
 
     // ✅ UPDATE product (PUT)
-    // @Test
-    // public void updateProduct_shouldReturn200() {
-    //     RestAssured.baseURI = "http://localhost:9090";
-    //     String updatedProductJson = """
-    //     {
-    //         "id": 1,
-    //         "name": "Dell",
-    //         "price": 19000
-    //     }
-    //     """;
+    @Test
+    public void updateProduct_shouldReturn200() {
+        RestAssured.baseURI = "http://localhost:9090";
+        String updatedProductJson = """
+        {
+            "id": 1,
+            "name": "Dell",
+            "price": 19000
+        }
+        """;
 
-    //     given()
-    //         .contentType(ContentType.JSON)
-    //         .body(updatedProductJson)
-    //     .when()
-    //         .put("/api/products/1")
-    //     .then()
-    //         .statusCode(200)
-    //         .body("name", equalTo("Dell"))
-    //         .body("price", equalTo(19000));
-    // }
+        given()
+            .contentType(ContentType.JSON)
+            .body(updatedProductJson)
+        .when()
+            .put("/api/products/1")
+        .then()
+            .statusCode(200)
+            .body("name", equalTo("Dell"))
+            .body("price", equalTo(19000));
+    }
 
     // @Test
     // public void deleteProduct_shouldReturn204() {
