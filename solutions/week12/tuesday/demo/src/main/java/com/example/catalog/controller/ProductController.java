@@ -1,15 +1,19 @@
 package com.example.catalog.controller;
+
 import com.example.catalog.model.Product;
 import com.example.catalog.service.ProductService;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
+
 import java.net.URI;
 import java.util.*;
 
 @RestController
 @RequestMapping("/api/products")
 public class ProductController {
+
     private ProductService _service;
 
     @Autowired
@@ -34,9 +38,7 @@ public class ProductController {
 
     @PutMapping("/{id}")
     public Product updateProduct(@PathVariable int id, @RequestBody Product updatedProduct) {
-        return new Product(id, "Dell", 19000);
-
-       // return _service.updateProduct(updatedProduct);
+        return _service.updateProduct(updatedProduct);
     }
 
     @DeleteMapping("/{id}")

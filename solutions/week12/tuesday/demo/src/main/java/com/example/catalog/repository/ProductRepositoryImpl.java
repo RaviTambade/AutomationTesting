@@ -49,8 +49,7 @@ public class ProductRepositoryImpl implements ProductRepository {
                 return p;
             }
         }
-
-        return new Product(34,"Gerbera",56);       // throw new RuntimeException("Product with ID " + product.getId() + " not found");
+        throw new RuntimeException("Product with ID " + product.getId() + " not found");
     }
 
     @Override

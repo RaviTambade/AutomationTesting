@@ -23,11 +23,11 @@ public class ProductApiTest {
     }
 
     // ✅ GET one product by ID
-    @Test
+     @Test
     public void getProductById_shouldReturnOne() {
         given()
         .when()
-            .get("/products/1")
+            .get("/api/products/1")
         .then()
             .statusCode(200)
             .body("name", notNullValue())
@@ -38,18 +38,18 @@ public class ProductApiTest {
     public void createProduct_shouldReturn201() {
         String newProductJson = """
         {
+            "id": 66,
             "name": "Wireless Mouse",
-            "price": 1500,
-            "description": "Ergonomic wireless mouse",
-            "category": "Electronics"
+            "price": 1500
         }
+
         """;
 
         given()
             .contentType(ContentType.JSON)
             .body(newProductJson)
         .when()
-            .post("/products")
+            .post("/api/products")
         .then()
             .statusCode(201) // Created
             .body("id", notNullValue())
@@ -61,11 +61,9 @@ public class ProductApiTest {
     public void updateProduct_shouldReturn200() {
         String updatedProductJson = """
         {
-            "id": 1,
-            "name": "Headphones - Updated",
-            "price": 2200,
-            "description": "Updated product description",
-            "category": "Electronics"
+            "id": 3,
+            "name": "Wireless Mouse",
+            "price": 2200
         }
         """;
 
@@ -73,10 +71,10 @@ public class ProductApiTest {
             .contentType(ContentType.JSON)
             .body(updatedProductJson)
         .when()
-            .put("/products/1")
+            .put("/api/products/1")
         .then()
             .statusCode(200)
-            .body("name", equalTo("Headphones - Updated"))
+            .body("name", equalTo("Wireless Mouse"))
             .body("price", equalTo(2200));
     }
 
@@ -84,11 +82,9 @@ public class ProductApiTest {
     public void deleteProduct_shouldReturn204() {
         given()
         .when()
-            .delete("/products/2")
+            .delete("/api/products/3")
         .then()
             .statusCode(204); // No Content
     }
-
-
 
 }
