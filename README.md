@@ -1,11 +1,11 @@
 ## 🌸 **Transflower Acceleration Program (TAP)**
 
-* **Title:** *“From Testing to Building: Accelerate Your Developer Journey”*
+* **Title:** *“From Testing to Building: Accelerate Your Development Journey”*
 * **Format:** Weekend Workshop (Saturdays & Sundays 4 hours/day)
 * **Duration:** 12 Weeks (3 Months)
 * **Cost:** 12500 Rs.
 * **Target Audience:** Working professionals from Software Testing background
-* **Goal:** Prepare participants for a Full-Stack Software Development role
+* **Goal:** Prepare participants for a Full-Stack Software Development Role
 * **Mentor-led, Project-based, Career-focused**
 * **Mentor:Ravi Tambade**
 
@@ -87,9 +87,10 @@
 
 > "You’re a tester-turned-developer—quality code is your signature."
 
-* ✅ Unit Testing with xUnit / JUnit / Jest
+* ✅ Unit Testing with xUnit / JUnit/ TestNG / Jest
+* ✅ Browser Automation UI Testing with Selenium / Playwrite / Cypress
 * ✅ GitHub workflow, pull requests
-* ✅ Deploy to Render / Vercel / Azure / IIS
+* ✅ Deploy to Render / AWS / Azure / GCP / Containerized Platform
 
 🛠 Final Demo: Deploy your full-stack app live
 
