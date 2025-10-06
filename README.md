@@ -11,9 +11,9 @@
 
 ## 💬 Mentor's message
 
-> *"You’re not switching careers—you’re expanding your impact. You’ve tested other people’s code long enough. Now, let’s build something of your own. From the right side of the V to the left. From QA to Full Stack. This is your journey, and Transflower is here to accelerate it."*
+> *"You’re not switching careers—you’re expanding your impact. You’ve spent years testing other people’s code, and now it’s time to create your own. Move from the right side of the V to the left. From QA to a Full Stack Individual Contributor. This is your journey, and Transflower is here to accelerate it."*
 
- **"Welcome to Transflower Acceleration Program—where your testing journey becomes the launchpad for your development career."**
+ **"Welcome to Transflower Acceleration Program (TAP)—where your testing journey becomes the launchpad for your development career."**
 
 > You’ve spent years finding defects, raising bugs, testing apps. You know how to **break things the right way**—and that means you already think like a developer.
 
