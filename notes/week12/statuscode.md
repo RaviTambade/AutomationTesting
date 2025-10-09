@@ -131,7 +131,7 @@ it’s just the server saying, “Rutuja, I can’t find what you’re looking f
 
 Perfect 🌟
 Let’s continue the mentor story — but now, we’re walking into the **lab**.
-Rutuja and Sanika have opened **Postman**, and we’ll actually *see* those mysterious numbers in action.
+Rutuja and Nikita have opened **Postman**, and we’ll actually *see* those mysterious numbers in action.
  
 
 ## 🧪 ** (Part 2): HTTP Status Codes in Action — Live in Postman**
@@ -153,7 +153,7 @@ Type this in Postman:
 GET https://jsonplaceholder.typicode.com/users
 ```
 
-**Sanika:**
+**Nikita:**
 Sir, I got a bunch of JSON data and status **200 OK** on the right corner!
 So this means everything worked?
 
@@ -207,7 +207,7 @@ If the server replies **304 Not Modified**, it means —
 
 ### 🔴 4️⃣ **400 Bad Request – The Student Mistake**
 
-**Sanika:**
+**Nikita:**
 What if I send wrong data?
 
 **Mentor:**
@@ -225,7 +225,7 @@ POST https://jsonplaceholder.typicode.com/posts
 }
 ```
 
-**Sanika:**
+**Nikita:**
 Ah! Status **400 Bad Request**.
 
 **Mentor:**
@@ -262,7 +262,7 @@ You can’t enter without your ID card (token).
 **Mentor:**
 Even if you’re logged in — you may not have permission.
 
-Imagine Sanika trying to view *admin reports* with her *student* login.
+Imagine Nikita trying to view *admin reports* with her *student* login.
 The system says:
 
 `403 Forbidden` —
@@ -281,7 +281,7 @@ Try:
 GET https://jsonplaceholder.typicode.com/users/9999
 ```
 
-**Sanika:**
+**Nikita:**
 Status **404 Not Found**, sir.
 
 **Mentor:**
@@ -336,7 +336,7 @@ They tell your client how your server is *feeling* right now.
 | 500  | Server Error | 💥 I’m broken                |
 
 
-**Sanika:**
+**Nikita:**
 So every time I test an API, I should check the status code first?
 
 **Mentor:**
