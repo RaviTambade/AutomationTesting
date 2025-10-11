@@ -127,8 +127,6 @@ HTTP Status Codes are like a doctor’s report — they tell you what’s health
 Now when I see 404, I’ll know it’s not an alien code —
 it’s just the server saying, “Rutuja, I can’t find what you’re looking for!”
 
-
-
 Perfect 🌟
 Let’s continue the mentor story — but now, we’re walking into the **lab**.
 Rutuja and Nikita have opened **Postman**, and we’ll actually *see* those mysterious numbers in action.

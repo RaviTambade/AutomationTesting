@@ -9,7 +9,10 @@ import static org.mockito.Mockito.*;
 import static org.testng.Assert.assertEquals;
 
 public class CalculatorServiceTest {
- private MathRepository mathRepository;
+
+
+
+    private MathRepository mathRepository;
     private CalculatorServiceImpl calculatorService;
 
     @BeforeMethod

@@ -116,7 +116,7 @@
 						<include>**/*Test.java</include>
 						<include>**/*Tests.java</include>
 						<include>**/*TestNG.java</include>
-						 <include>**/TestNGRunner.java</include>
+						<include>**/TestNGRunner.java</include>
 					</includes>
 					<useSystemClassLoader>true</useSystemClassLoader>
 					<suiteXmlFiles>
