@@ -1,0 +1,15 @@
+{
+  "name": "19_9_26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testbed.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "jest": "^30.5.2",
+    "mocha": "^12.0.2"
+  }
+}

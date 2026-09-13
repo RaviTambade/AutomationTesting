@@ -1,0 +1,40 @@
+[
+    {
+       "name": "Laptop",
+        "price": 50000,
+        "title": "HP",
+        "stockAvailable": true,
+        "stock": 100,
+        "reviews": [
+            {
+                "name": "Ravi",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "name": "Akashay",
+                "rating": 4,
+                "comment": "Good value for money."
+            }
+        ]
+    },
+    {
+        "name": "Mobile",
+        "price": 20000,
+        "title": "Samsung",
+        "stockAvailable": true,
+        "stock": 50,
+        "reviews": [
+            {
+                "name": "Ravi",
+                "rating": 5,
+                "comment": "Great product!"
+            },
+            {
+                "name": "Akashay",
+                "rating": 4,
+                "comment": "Good value for money."
+            }
+        ]
+    }
+]
