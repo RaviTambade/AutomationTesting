@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New Policy</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>New Policy</h1>
+    </header>
+    <main>
+        <form id="policyForm">
+            <label for="policyName">Policy Name:</label>
+            <input type="text" id="policyName" name="policyName" required>
+
+            <label for="policyDescription">Policy Description:</label>
+            <textarea id="policyDescription" name="policyDescription" required></textarea>
+
+            <label for="effectiveDate">Effective Date:</label>
+            <input type="date" id="effectiveDate" name="effectiveDate" required>
+
+            <button type="submit">Submit</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 Company Name. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
