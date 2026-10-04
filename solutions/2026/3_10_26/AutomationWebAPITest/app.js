@@ -1,5 +1,4 @@
 //AUT: Application under test
-
 const express = require('express');
 const app = express();
 

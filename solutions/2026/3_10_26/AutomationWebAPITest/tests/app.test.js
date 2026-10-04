@@ -1,11 +1,8 @@
-
 const request = require("supertest"); //Library for testing HTTP servers
 const app = require("../app");   // AUT: Application under test
 
 
 describe("hello world api test", () => {
-  
-
      test('GET / should return Hello World!', async () => {
         const response = await request(app).get('/');
         expect(response.statusCode).toBe(200);
