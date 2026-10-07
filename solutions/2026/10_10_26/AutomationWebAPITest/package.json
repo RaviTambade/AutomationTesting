@@ -6,13 +6,11 @@
   "author": "Ravi Tambade",
   "type": "commonjs",
   "main": "index.js",
-  "JWT_SECRET": "Transflower_Demo_JWT_Secret_Key_2026!8989898",
   "scripts": {
     "start": "node server.js",
     "test": "jest --runInBand"
   },
   "dependencies": {
-    "bcryptjs": "^3.0.3",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3"
   },
