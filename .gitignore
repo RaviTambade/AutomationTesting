@@ -148,6 +148,7 @@ jspm_packages/
 .env
 .env.local
 .env.*.local
+/solutions/2026/10_10_26/AutomationWebAPITest/users.json
 
 # Parcel-bundler cache
 .cache

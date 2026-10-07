@@ -25,6 +25,4 @@ describe("hello world api test", () => {
         expect(response.statusCode).toBe(201);
         expect(response.body).toEqual(postData);
     });
-
-
 });

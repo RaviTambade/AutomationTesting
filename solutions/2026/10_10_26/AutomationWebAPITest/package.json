@@ -1,0 +1,23 @@
+{
+  "name": "automationwebapitest",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Ravi Tambade",
+  "type": "commonjs",
+  "main": "index.js",
+  "JWT_SECRET": "Transflower_Demo_JWT_Secret_Key_2026!8989898",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest --runInBand"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "supertest": "^7.3.1"
+  }
+}
